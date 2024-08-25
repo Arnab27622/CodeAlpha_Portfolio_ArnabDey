@@ -1,2 +1,3 @@
 # CodeAlpha_Portfolio_ArnabDey
-My Portfolio Website (using HTML, CSS, JavaScript)
+
+My Portfolio Website (Responsive)using HTML, CSS, JavaScript
